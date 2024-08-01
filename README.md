@@ -1,5 +1,5 @@
 # TheMIne
-Escape da caverna jogo de aventura em css
+Escape da caverna jogo de aventura 
 # CaptureOfantasma
 um mini game onde voce cai em uma caverna misteriosa e tem que tentar escapar colotanto recursos e obejtos !! use o mouse para clicar nos direcionais e mover seu jogador 
 
