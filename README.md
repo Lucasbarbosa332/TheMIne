@@ -12,8 +12,7 @@ Gameplay:
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<img width=80% src="![image](https://github.com/user-attachments/assets/188d034c-3a03-481b-8ff0-2a80643c00d8)
-" alt="0">
+<img width=80% src="https://github.com/Lucasbarbosa332/TheMIne/blob/main/the%20%20ine%20.jpg?raw=true" alt="0">
 
 
 <h3 align='center'> 🌎 Rodando no navegador</h3>
