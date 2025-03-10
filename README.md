@@ -12,7 +12,8 @@ Gameplay:
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<img width=40% src="" alt="0">
+<img width=80% src="![image](https://github.com/user-attachments/assets/188d034c-3a03-481b-8ff0-2a80643c00d8)
+" alt="0">
 
 
 <h3 align='center'> 🌎 Rodando no navegador</h3>
